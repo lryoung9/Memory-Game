@@ -1,16 +1,10 @@
-import React, { Component } from 'react';
+import React from 'react';
 import '../App.css';
 
-class Footer extends Component {
-  render() {
-    return (
-      <div className="Footer">
-        <nav className="navbar fixed-bottom navbar-light bg-light justify-content-center">
-            <a className="navbar-brand">Created by Lydia Young</a>
-        </nav>
-      </div>
-    );
-  }
-}
+const Footer = () => (
+  <footer className="Footer navbar fixed-bottom justify-content-center">
+    <span>Created by Lydia Young 2017</span>
+  </footer>
+);
 
 export default Footer;

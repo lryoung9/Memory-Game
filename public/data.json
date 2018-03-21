@@ -1,0 +1,62 @@
+[
+    {
+        "alt": "Blow",
+        "href": "./img/Blow.jgp",
+        "clicked": false
+    },
+    {
+        "alt": "Bottle",
+        "href": "./img/Bottle.jgp",
+        "clicked": false
+    },
+    {
+        "alt": "Careful",
+        "href": ".img/Careful.jpg",
+        "clicked": false
+    },
+    {
+        "alt": "CSS",
+        "href": ".img/CSS.jpg",
+        "clicked": false
+    },
+    {
+        "alt": "Egg-Love",
+        "href": ".img/Egg-Love.jpg",
+        "clicked": false
+    },
+    {
+        "alt": "Eggs",
+        "href": ".img/Eggs.jpg",
+        "clicked": false
+    },
+    {
+        "alt": "Fail-Whale",
+        "href": "./img/Fail-Whale.jpg",
+        "clicked": false
+    },
+    {
+        "alt": "Fish",
+        "href": ".img/Fish.jpg",
+        "clicked": false
+    },
+    {
+        "alt": "Help",
+        "href": ".img/Help.jpg",
+        "clicked": false
+    },
+    {
+        "alt": "Little-People",
+        "href": ".img/Little-People.jpg",
+        "clicked": false        
+    },
+    {
+        "alt": "Sticky-Notes",
+        "href": ".img/Sticky-Notes.jpg",
+        "clicked": false        
+    },
+    {
+        "alt": "Watering",
+        "href": ".img/Watering.jpg",
+        "clicked": false        
+    }
+]
